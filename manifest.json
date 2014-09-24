@@ -1,0 +1,12 @@
+{
+	"name": "test chrome app",
+	"description": "testing chrome app (note-app)",
+	"version": "0.1",
+	"manifest_version": 2,
+	"offline_enabled": true,
+	"app": {
+    "background": {
+      "scripts": ["js/background.js"]
+    }
+  }
+}
