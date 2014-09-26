@@ -1,7 +1,5 @@
 /** @jsx React.DOM */
 React.renderComponent(
-  <h1>Hello, world!</h1>,
+  <h2>Hello, world!</h2>,
   document.getElementById('container')
 );
-/*(function(){
-})();*/
